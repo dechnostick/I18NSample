@@ -20,7 +20,6 @@ namespace I18N
         public Form2(CultureInfo ci)
         {
             Thread.CurrentThread.CurrentUICulture = ci;
-            Thread.CurrentThread.CurrentUICulture = ci;
 
             InitializeComponent();
         }
