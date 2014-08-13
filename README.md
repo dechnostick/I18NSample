@@ -5,14 +5,14 @@ I18NSample
 
 カルチャを明示してフォームを開くと  
 
-```:vb
+```vb
 CultureInfo ci = new CultureInfo("ja-JP");
 new Form2(ci).Show();
 ```
 
 指定されたリソースに応じたテキストが設定される。  
 
-```
+```vb
 this.label1.Text = Properties.Resource.Hello;
 this.label2.Text = Properties.Resource.ThankYou;
 ```
