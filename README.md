@@ -10,7 +10,7 @@ CultureInfo ci = new CultureInfo("ja-JP");
 new Form2(ci).Show();
 ```
 
-指定されたリソースに応じたテキストが設定される。  
+指定されたカルチャに応じたリソースが設定される。  
 
 ```cs
 this.label1.Text = Properties.Resource.Hello;
