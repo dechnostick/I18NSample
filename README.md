@@ -5,7 +5,7 @@ I18NSample
 
 カルチャを明示してフォームを開くと  
 
-```
+```:vb
 CultureInfo ci = new CultureInfo("ja-JP");
 new Form2(ci).Show();
 ```
