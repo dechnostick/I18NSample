@@ -18,8 +18,3 @@ this.label2.Text = Properties.Resource.ThankYou;
 ```
 
 ![](http://cdn-ak.f.st-hatena.com/images/fotolife/d/dechnostick/20140814/20140814001046.png)
-
-ソースはこちら  
-https://github.com/dechnostick/I18NSample
-
-
